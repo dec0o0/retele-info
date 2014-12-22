@@ -1,0 +1,49 @@
+C:\Documents and Settings\Stud\Desktop\Talk\Client\bin\Debug\Client.exe.config
+C:\Documents and Settings\Stud\Desktop\Talk\Client\bin\Debug\Client.exe
+C:\Documents and Settings\Stud\Desktop\Talk\Client\bin\Debug\Client.pdb
+C:\Documents and Settings\Stud\Desktop\Talk\Client\bin\Debug\Common.dll
+C:\Documents and Settings\Stud\Desktop\Talk\Client\bin\Debug\Common.pdb
+C:\Documents and Settings\Stud\Desktop\Talk\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stud\Desktop\Talk\Client\obj\x86\Debug\Client.MainForm.resources
+C:\Documents and Settings\Stud\Desktop\Talk\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Documents and Settings\Stud\Desktop\Talk\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Stud\Desktop\Talk\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Stud\Desktop\Talk\Client\obj\x86\Debug\Client.exe
+C:\Documents and Settings\Stud\Desktop\Talk\Client\obj\x86\Debug\Client.pdb
+C:\Users\Alice\Desktop\jkjk\Talk\Client\bin\Debug\Client.exe.config
+C:\Users\Alice\Desktop\jkjk\Talk\Client\bin\Debug\Client.exe
+C:\Users\Alice\Desktop\jkjk\Talk\Client\bin\Debug\Client.pdb
+C:\Users\Alice\Desktop\jkjk\Talk\Client\bin\Debug\Common.dll
+C:\Users\Alice\Desktop\jkjk\Talk\Client\bin\Debug\Common.pdb
+C:\Users\Alice\Desktop\jkjk\Talk\Client\obj\x86\Debug\Client.Login.resources
+C:\Users\Alice\Desktop\jkjk\Talk\Client\obj\x86\Debug\Client.MainForm.resources
+C:\Users\Alice\Desktop\jkjk\Talk\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Alice\Desktop\jkjk\Talk\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Alice\Desktop\jkjk\Talk\Client\obj\x86\Debug\Client.exe
+C:\Users\Alice\Desktop\jkjk\Talk\Client\obj\x86\Debug\Client.pdb
+C:\Users\Alice\Desktop\jkjk\Talk\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Alice\Downloads\Talk\Client\bin\Debug\Client.exe.config
+C:\Users\Alice\Downloads\Talk\Client\obj\x86\Debug\Client.exe
+C:\Users\Alice\Downloads\Talk\Client\obj\x86\Debug\Client.pdb
+C:\Users\Alice\Downloads\Talk\Client\bin\Debug\Client.exe
+C:\Users\Alice\Downloads\Talk\Client\bin\Debug\Client.pdb
+C:\Users\Alice\Downloads\Talk\Client\bin\Debug\Common.dll
+C:\Users\Alice\Downloads\Talk\Client\bin\Debug\Common.pdb
+C:\Users\Alice\Downloads\Talk\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Alice\Downloads\Talk\Client\obj\x86\Debug\Client.Login.resources
+C:\Users\Alice\Downloads\Talk\Client\obj\x86\Debug\Client.MainForm.resources
+C:\Users\Alice\Downloads\Talk\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Alice\Downloads\Talk\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\Talk\Client\bin\Debug\Client.exe.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\Talk\Client\bin\Debug\Client.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Talk\Client\bin\Debug\Client.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Talk\Client\bin\Debug\Common.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\Talk\Client\bin\Debug\Common.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Talk\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\Talk\Client\obj\x86\Debug\Client.FormClient.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Talk\Client\obj\x86\Debug\Client.Login.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Talk\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Talk\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Documents\Visual Studio 2010\Projects\Talk\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Documents\Visual Studio 2010\Projects\Talk\Client\obj\x86\Debug\Client.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Talk\Client\obj\x86\Debug\Client.pdb
